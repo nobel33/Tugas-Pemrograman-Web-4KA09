@@ -1,0 +1,19 @@
+body {
+	color: white;  
+	background: #808000;
+	font-family: Trajan Pro,serif,Times New Roman;
+	line-height: 1.4em;#021952
+	margin: 10px;
+}
+.table1 {
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+}
+ 
+.table1, th, td {
+	color : black;
+	background: white;
+    border: 2px solid black;
+    padding: 8px 20px;
+}
